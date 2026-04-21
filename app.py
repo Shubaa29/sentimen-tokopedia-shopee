@@ -1,7 +1,7 @@
 import streamlit as st
 import torch
 from transformers import BertTokenizer, BertForSequenceClassification
-import plotly.graph_objects as go
+import plotly.graph_objects as 
 
 # =====================
 # KONFIGURASI
